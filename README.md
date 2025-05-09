@@ -1,6 +1,8 @@
 # AnduinOS Homepage
 
-![Man hours](https://manhours.aiursoft.cn/r/gitlab.aiursoft.cn/anduin/anduinos-home.svg)
+![Static Badge](https://img.shields.io/badge/Man_hours-120h-yellow)
+
+![Static Badge](https://img.shields.io/badge/AI_hours-0h-orange)
 
 Source code of the [homepage of AnduinOS](https://anduinos.com)
 
