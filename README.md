@@ -1,6 +1,6 @@
 # AnduinOS Homepage
 
-![Static Badge](https://img.shields.io/badge/Man_hours-43h-yellow) ![Static Badge](https://img.shields.io/badge/AI_hours-0h-orange) ![Static Badge](https://img.shields.io/badge/DoDa_hours-0h-rebeccapurple)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.anduinos.com%2F)](https://www.anduinos.com/) ![Static Badge](https://img.shields.io/badge/Man_hours-43h-yellow) ![Static Badge](https://img.shields.io/badge/AI_hours-0h-orange) ![Static Badge](https://img.shields.io/badge/DoDa_hours-0h-rebeccapurple)
 
 Source code of the [homepage of AnduinOS](https://anduinos.com)
 
